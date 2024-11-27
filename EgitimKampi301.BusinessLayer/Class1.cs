@@ -8,5 +8,7 @@ namespace EgitimKampi301.BusinessLayer
 {
     public class Class1
     {
+       
+
     }
 }

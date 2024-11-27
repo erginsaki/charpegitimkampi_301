@@ -13,7 +13,7 @@ namespace EgitimKampi301_dataaccesslayer.Abstract
 
         void Update(T entity);
 
-        void delete(int id);
+        void delete(T entity);
 
         List<T> GetAll();
 

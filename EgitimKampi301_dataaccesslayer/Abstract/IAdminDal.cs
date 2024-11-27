@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EgitimKampi301_dataaccesslayer.Abstract
 {
-    public interface IAdminDal : IGenericDal<Admin>
+    public interface IAdminDal : IGenericDal<Admin>  // interfacce I ile adlandırılır
     {
     }
 }
